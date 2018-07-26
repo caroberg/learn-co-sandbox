@@ -1,1 +1,1 @@
-mkdir my-git-project
+I deleted the README.md file, whoops.
